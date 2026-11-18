@@ -2,7 +2,7 @@
   "format_version": 1,
   "id": "io.ncoooooper.scalesteps",
   "name": "Scale Steps",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "api_version": "27.12.0",
   "description": "Practise scale degrees in seconds, thirds or fourths and transpose the same exercise into another key.",
   "author": "ncoooooper"

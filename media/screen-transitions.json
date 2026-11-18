@@ -1,0 +1,51 @@
+{
+  "app": "busybar-scale-steps",
+  "sha256": "755cc8ebf51ba75b6c12e46c8bbef1cf75f24131f6611ec12d5e3bc7bad6ed9e",
+  "firmware": "1.3.1",
+  "cell": 16,
+  "lit": 14,
+  "front": [
+    72,
+    16
+  ],
+  "rear": [
+    160,
+    80
+  ],
+  "captures": [
+    {
+      "mode": "classic",
+      "guides": [
+        "practice-in-thirds",
+        "transpose-the-exercise"
+      ],
+      "tour": "screen-transitions",
+      "input": [
+        [
+          "start",
+          "up"
+        ],
+        [
+          "ok",
+          "up",
+          "up",
+          "ok",
+          "up"
+        ],
+        [
+          "down",
+          "up",
+          "ok"
+        ]
+      ],
+      "distinct_frames": [
+        3,
+        5,
+        11
+      ],
+      "rear_frames": 11,
+      "rear_tour": "screen-transitions-rear",
+      "exit": "finished"
+    }
+  ]
+}

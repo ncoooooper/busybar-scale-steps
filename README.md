@@ -4,6 +4,20 @@ Practise scale degrees in seconds, thirds or fourths and transpose the same exer
 
 Keep a single note and scale-degree marker in view while you play. Transposing the exercise keeps the interval pattern intact, so you can repeat it in a second key without writing out a new note list.
 
+## Screen transitions
+
+Follow the highlighted notes through the scale and transpose the pattern.
+
+![Scale Steps front display. Follow the highlighted notes through the scale and transpose the pattern.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![Scale Steps rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Practise a scale in thirds
 
 1. Hold the wheel to choose major or natural minor as needed. Press **Start** to cycle seconds, thirds and fourths. A change of exercise returns to its first position.
@@ -34,6 +48,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. Each front-display pixel is shown at 9× its original width and height. The end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The end frames pause for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)
