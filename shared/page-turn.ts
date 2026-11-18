@@ -99,7 +99,7 @@ export function pageTurn(frame:Frame,boxes:Box[],event:MotionEvent,phase:number,
         }
       }
     }
-    return out;
+    if (boxes.length !== 1 || style.shape === "art") return out;
   }
 
   const box=boxes[0], cap=frame.find(e=>e.display!=="back"&&e.type==="text");

@@ -1,6 +1,17 @@
 {
   "app": "busybar-scale-steps",
-  "sha256": "755cc8ebf51ba75b6c12e46c8bbef1cf75f24131f6611ec12d5e3bc7bad6ed9e",
+  "sha256": "db35dbc7e4c516512352e267bed094c9eb168db62f089ae592baa6aaef18fae9",
+  "rapid_input_test": {
+    "app": "io.ncoooooper.scalesteps",
+    "sha256": "db35dbc7e4c516512352e267bed094c9eb168db62f089ae592baa6aaef18fae9",
+    "firmware": {
+      "name": "1.3.1",
+      "commit": "8edd2da4"
+    },
+    "heap_peak_kib": 95.6,
+    "budget_kib": 128.0,
+    "exit": "finished"
+  },
   "firmware": "1.3.1",
   "cell": 16,
   "lit": 14,
@@ -39,9 +50,9 @@
         ]
       ],
       "distinct_frames": [
-        3,
-        5,
-        11
+        12,
+        31,
+        60
       ],
       "rear_frames": 11,
       "rear_tour": "screen-transitions-rear",
