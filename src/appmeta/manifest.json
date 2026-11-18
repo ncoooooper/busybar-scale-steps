@@ -4,6 +4,6 @@
   "name": "Scale Steps",
   "version": "0.1.0",
   "api_version": "27.12.0",
-  "description": "Scale Steps",
+  "description": "Practise scale degrees in seconds, thirds or fourths and transpose the same exercise into another key.",
   "author": "ncoooooper"
 }

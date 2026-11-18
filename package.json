@@ -2,7 +2,7 @@
   "name": "busybar-scale-steps",
   "private": true,
   "version": "0.1.0",
-  "description": "Scale Steps",
+  "description": "Practise scale degrees in seconds, thirds or fourths and transpose the same exercise into another key.",
   "author": "ncoooooper",
   "type": "module",
   "scripts": {
